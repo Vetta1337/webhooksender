@@ -11,7 +11,7 @@ async function sendCoolerDiscordEmbed(title, description, link, thumbnailUrl) {
           url: link,
           color: 16729344,
           footer: {
-            text: 'Powered by Discord',
+            text: 'Powered by Vetta',
           },
           timestamp: new Date().toISOString(),
           thumbnail: {
